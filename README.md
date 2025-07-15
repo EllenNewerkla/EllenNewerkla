@@ -5,11 +5,11 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 </br>
 
 ## Sobre mim
-
+</br>
 🎓 Atualmente no 5° semestre em **Desenvolvimento de Software Multiplataforma** na **FATEC** </br>
 🌱 Atualmente estudando **Python, SQL, Spark, Airflow e AWS** </br>
 💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dado </br>
-
+</br>
 </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
