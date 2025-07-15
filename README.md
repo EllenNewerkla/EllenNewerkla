@@ -13,15 +13,12 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 
-</br></br>
+</br>
 
-## Tecnologias e Linguagens
+## Tecnologias, Linguagens e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python,kafka,mongodb,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,notion,vscode,)](https://skillicons.dev)
 
-## GitHub Stats
-
-![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF05&section=footer&reversal=false)
 <!--
