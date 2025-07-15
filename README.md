@@ -6,9 +6,9 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 
 ## Sobre mim
 
-- 🎓 Atualmente no 5° semestre em **Desenvolvimento de Software Multiplataforma** na **FATEC**
-- 🌱 Atualmente estudando **Python, SQL, Spark, Airflow e AWS**
-- 💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dado
+🎓 Atualmente no 5° semestre em **Desenvolvimento de Software Multiplataforma** na **FATEC**
+🌱 Atualmente estudando **Python, SQL, Spark, Airflow e AWS**
+💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dado
 
 </br>
 
