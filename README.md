@@ -2,7 +2,6 @@
 
 Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em construir pipelines escaláveis e soluções para Big Data. Atualmente aprendendo Python, SQL, Spark e Airflow, com interesse em cloud computing e arquitetura de dados.
 
-</br>
 
 ## Sobre mim
 
@@ -10,8 +9,7 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 - 💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dados
 - 🌱 Atualmente estudando **Python, SQL, Spark, Airflow e AWS**
 
-</br></br>
-
+</br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 
