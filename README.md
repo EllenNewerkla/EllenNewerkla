@@ -10,13 +10,12 @@ Desenvolvedora em formação,
 - 🔍 Explorando **boas práticas em Engenharia de Dados** e **ciência de dados aplicada**
 
 
-## GitHub Stats
+## GitHub comtribuições
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 ![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 
 ## Tecnologias que Utilizo
 
