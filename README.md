@@ -24,7 +24,7 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 ![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-
+https://capsule-render.vercel.app/api?type=waving&height=230&color=568203&section=footer&reversal=false
 <!--
 **EllenNewerkla/EllenNewerkla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
