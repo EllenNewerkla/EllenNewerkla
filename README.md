@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=2CFF05&text=Bem-Vindo(a),eu%20sou%20a%20Ellen!&section=header&reversal=false&fontColor=ffffff&fontAlignY=50&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=2CFF05&text=Bem-Vindo(a),%20eu%20sou%20a%20Ellen!&section=header&reversal=false&fontColor=ffffff&fontAlignY=50&animation=twinkling&fontSize=40)
 
 Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em construir pipelines escaláveis e soluções para Big Data. Atualmente aprendendo Python, SQL, Spark e Airflow, com interesse em cloud computing e arquitetura de dados.
 
 
 ## Sobre mim
 </br>
-🎓 Atualmente no 5° semestre em **Desenvolvimento de Software Multiplataforma** na **FATEC** </br>
-🌱 Atualmente estudando **Python, SQL, Spark, Airflow e AWS** </br>
+🎓 Atualmente no 5° semestre em Desenvolvimento de Software Multiplataforma na FATEC Praia Grande </br>
+🌱 Atualmente estudando Python, SQL, Spark, Airflow e AWS </br>
 💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dado </br>
-</br>
-</br>
+</br> </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 
