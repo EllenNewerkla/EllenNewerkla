@@ -16,7 +16,7 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 
 ## Tecnologias, Linguagens e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python,kafka,mongodb,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,notion,vscode,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF05&section=footer&reversal=false)
