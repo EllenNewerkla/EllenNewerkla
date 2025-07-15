@@ -17,8 +17,8 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 </br></br>
 
 ## Tecnologias e Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,spark,airflow)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=python,kafka,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,notion)](https://skillicons.dev)
 
 ## GitHub Stats
 
