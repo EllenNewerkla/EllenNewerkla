@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=2CFF05&text=Bem-Vindo(a),eu%20sou%20a%20Ellen!&section=header&reversal=false&fontColor=ffffff&fontAlignY=50&animation=twinkling&fontSize=40)
 
-##
 Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em construir pipelines escaláveis e soluções para Big Data. Atualmente aprendendo Python, SQL, Spark e Airflow, com interesse em cloud computing e arquitetura de dados.
 
 
