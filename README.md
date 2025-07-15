@@ -6,6 +6,7 @@
 
 
 ![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![ellennewerkla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellennewerkla&theme=dark&hide_border=true)
 ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <div align="left">
