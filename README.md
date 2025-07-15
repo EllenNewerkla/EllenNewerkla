@@ -9,8 +9,8 @@ Desenvolvedora em formação,
 - 📚 Atualmente estudando **Python, SQL, Spark, Airflow e AWS**
 - 🔍 Explorando **boas práticas em Engenharia de Dados** e **ciência de dados aplicada**
 
-  📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ellennewerkla/) | [E-mail](ellennewerkla@gmail.com)
 
+##⭐ GitHub Stats
 ![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
