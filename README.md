@@ -9,14 +9,12 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 - 📚 Atualmente estudando **Python, SQL, Spark, Airflow e AWS**
 - 🔍 Explorando **boas práticas em Engenharia de Dados** e **ciência de dados aplicada**
 
-</br>
+</br></br>
 
-## GitHub comtribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
-![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+</br></br>
 
 ## Tecnologias que Utilizo
 
@@ -32,7 +30,11 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-##
+## GitHub Stats
+
+![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **EllenNewerkla/EllenNewerkla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
