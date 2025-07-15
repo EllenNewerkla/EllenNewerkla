@@ -21,8 +21,7 @@ Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em cons
 
 ## GitHub Stats
 
-![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF05&section=footer&reversal=false)
 <!--
