@@ -1,4 +1,4 @@
-## Bem-Vindo(a), eu sou a Ellen! 👋
+## 👋 Bem-Vindo(a), eu sou a Ellen! 
 
 Desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em construir pipelines escaláveis e soluções para Big Data. Atualmente aprendendo Python, SQL, Spark e Airflow, com interesse em cloud computing e arquitetura de dados.
 
