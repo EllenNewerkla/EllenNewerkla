@@ -10,11 +10,13 @@ Desenvolvedora em formação,
 - 🔍 Explorando **boas práticas em Engenharia de Dados** e **ciência de dados aplicada**
 
 
-##⭐ GitHub Stats
+## GitHub Stats
+
 ![ellennewerkla's Stats](https://github-readme-stats.vercel.app/api?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ellennewerkla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellennewerkla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-##
+## Tecnologias que Utilizo
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
