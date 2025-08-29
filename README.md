@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=2CFF05&text=Bem-Vindo(a),%20eu%20sou%20a%20Ellen!&section=header&reversal=false&fontColor=ffffff&fontAlignY=50&animation=twinkling&fontSize=40)
 
-Muito prazer! Sou desenvolvedora em formação, apaixonada por Engenharia de Dados, focada em construir pipelines escaláveis e soluções para Big Data. Atualmente aprendendo Python, SQL, Spark e Airflow, com interesse em cloud computing e arquitetura de dados.
+Muito prazer! Sou estudante de tecnologia em busca de iniciar minha carreira como Analista de Dados. Atualmente, estou estudando mineração de dados, estatística, SQL e Python para análise e manipulação de dados. Tenho interesse em transformar informações em insights que auxiliem na tomada de decisão. Busco oportunidades de estágio ou posições júnior para aplicar meus conhecimentos e continuar aprendendo
 
 
 ## Sobre mim
