@@ -5,7 +5,7 @@ Muito prazer! Sou estudante de tecnologia em busca de iniciar minha carreira com
 
 ## Sobre mim
 </br>
-🎓 Atualmente no 5° semestre em Desenvolvimento de Software Multiplataforma na FATEC Praia Grande </br>
+🎓 Atualmente no 6° e último semestre em Desenvolvimento de Software Multiplataforma na FATEC Praia Grande </br>
 🌱 Atualmente estudando Python, SQL, Spark, Airflow e AWS </br>
 💡 Interessada em Big Data, ETL, Data Lakes, Cloud Computing e Pipelines de Dados </br>
 </br> </br>
