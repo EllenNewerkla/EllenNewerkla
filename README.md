@@ -14,10 +14,6 @@ Muito prazer! Sou estudante de tecnologia em busca de iniciar minha carreira com
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
-
-</br>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF05&section=footer&reversal=false)
 <!--
 **EllenNewerkla/EllenNewerkla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
