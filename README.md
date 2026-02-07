@@ -6,18 +6,17 @@ Muito prazer! Sou estudante de tecnologia em busca de iniciar minha carreira com
 ## Sobre mim
 </br>
 🎓 Formada em Desenvolvimento de Software Multiplataforma na FATEC Praia Grande </br>
-🌱 Atualmente aprimorando SQL, estatistica aplicada, modelagem de dados, python e BI  </br>
+🌱 Atualmente aprimorando SQL no databricks, estatistica aplicada, modelagem de dados, python e BI  </br>
 💡 Interessada em SQL e métricas de negócio </br>
-</br> </br>
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,mongodb,docker,notion,vscode,aws,postgres,supabase)](https://skillicons.dev)
+
+</br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EllenNewerkla&theme=github-compact)](https://github.com/EllenNewerkla/github-readme-activity-graph)
 
 </br>
-
-## Tecnologias, Linguagens e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=python,kafka,mongodb,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,notion,vscode,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF05&section=footer&reversal=false)
 <!--
